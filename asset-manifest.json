@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/taskmaster/static/css/main.547c064d.css",
-    "main.js": "/taskmaster/static/js/main.ba38de67.js",
+    "main.js": "/taskmaster/static/js/main.bf137547.js",
     "static/js/453.db48ebec.chunk.js": "/taskmaster/static/js/453.db48ebec.chunk.js",
     "static/media/LEMONMILK-Medium.otf": "/taskmaster/static/media/LEMONMILK-Medium.3d615d9795b5607c2478.otf",
     "index.html": "/taskmaster/index.html",
     "main.547c064d.css.map": "/taskmaster/static/css/main.547c064d.css.map",
-    "main.ba38de67.js.map": "/taskmaster/static/js/main.ba38de67.js.map",
+    "main.bf137547.js.map": "/taskmaster/static/js/main.bf137547.js.map",
     "453.db48ebec.chunk.js.map": "/taskmaster/static/js/453.db48ebec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.547c064d.css",
-    "static/js/main.ba38de67.js"
+    "static/js/main.bf137547.js"
   ]
 }
